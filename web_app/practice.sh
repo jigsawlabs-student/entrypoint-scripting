@@ -1,0 +1,3 @@
+echo "create database"
+
+exec "$@"
